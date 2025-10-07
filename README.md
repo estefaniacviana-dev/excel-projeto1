@@ -10,14 +10,17 @@ A ferramenta é ideal para quem deseja visualizar o poder dos juros compostos em
 
 * Cálculo de Dividendos Mensais: Estima a renda passiva mensal que o usuário pode gerar com o patrimônio acumulado, com base no rendimento da carteira configurado.
 
-* Sugestão de Investimento: Oferece uma sugestão inicial de valor de investimento mensal (e.g., 30% do salário), ajustável pelo usuário.
+* Sugestão de Investimento: Oferece uma sugestão inicial de valor de investimento mensal (exemplo de 30% do salário), ajustável pelo usuário.
 
 * Tabela de Apoio para Alocação: Inclui tabelas auxiliares que sugerem a porcentagem de alocação de ativos (como diferentes tipos de FIIs: Papel, Tijolo, Híbridos, etc.) para perfis de risco distintos: Conservador, Moderado e Agressivo.
+  
+* Os arquivos de Tabela de Apoio (TB-APOIO.csv ou TB APOIO.csv) fornecem sugestões de como distribuir o seu capital entre diferentes classes de ativos, focando em Fundos de Investimento Imobiliário (FIIs).
+
 
 ###  Como Utilizar o Simulador <br/>
 
 * A seção de CONFIGURAÇÕES e INVESTIMENTO MENSAL são as principais áreas de input.
 * Após preencher os dados de entrada, a seção CENÁRIOS exibirá os resultados.
-* Os arquivos de Tabela de Apoio (TB-APOIO.csv ou TB APOIO.csv) fornecem sugestões de como distribuir o seu capital entre diferentes classes de ativos, focando em Fundos de Investimento Imobiliário (FIIs).
+* Como forma de visualizar os resultados , é disponibilizado um gráfico para apoio.
 
 
